@@ -1,0 +1,29 @@
+{
+  "name": "jquery-tageditor",
+  "version": "1.0.17",
+  "description": "A powerful and lightweight tag editor plugin for jQuery.",
+  "main": "jquery-tageditor.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltra-business-software/jQuery-tagEditor.git"
+  },
+  "keywords": [
+    "tags",
+    "keywords",
+    "editor",
+    "drag",
+    "and",
+    "drop",
+    "editable",
+    "edit"
+  ],
+  "author": "Simon Steinberger <simon@pixabay.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deltra-business-software/jQuery-tagEditor/issues"
+  },
+  "homepage": "https://github.com/deltra-business-software/jQuery-tagEditor#readme"
+}
